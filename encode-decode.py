@@ -9,14 +9,14 @@ root.geometry('500x300')
 root.resizable(0,0)
 
 #title of the window
-root.title("DataFlair - Message Encode and Decode")
+root.title("Lekzi - Message Encode and Decode")
 
 
 
 #label
 
-Label(root, text ='ENCODE DECODE', font = 'arial 20 bold').pack()
-Label(root, text ='DataFlair', font = 'arial 20 bold').pack(side =BOTTOM)
+Label(root, text ='Python Encoder&Decoder', font = 'arial 15 bold').pack()
+Label(root, text ='Lekzi', font = 'arial 15 bold').pack(side =BOTTOM)
 
 
 #define variables
